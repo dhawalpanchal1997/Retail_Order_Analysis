@@ -149,8 +149,3 @@ By leveraging SQL and Python, this analysis provides valuable insights for retai
 - Create interactive dashboards using Power BI or Tableau.
 - Perform predictive analytics to forecast sales trends.
 
-## Author
-[Your Name]  
-[Your Contact Information]  
-[Your LinkedIn Profile]
-
